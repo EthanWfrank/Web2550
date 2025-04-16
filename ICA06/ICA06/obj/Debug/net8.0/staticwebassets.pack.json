@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\efrank3\\Documents\\Web2550\\2550\\Thor\\CMPE2550\\HomePage\\icas\\ICA06\\ICA06\\wwwroot\\Code.js",
+      "PackagePath": "staticwebassets\\Code.js"
+    },
+    {
+      "Id": "C:\\Users\\efrank3\\Documents\\Web2550\\2550\\Thor\\CMPE2550\\HomePage\\icas\\ICA06\\ICA06\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ICA06.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ICA06.props",
+      "PackagePath": "build\\ICA06.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ICA06.props",
+      "PackagePath": "buildMultiTargeting\\ICA06.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ICA06.props",
+      "PackagePath": "buildTransitive\\ICA06.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

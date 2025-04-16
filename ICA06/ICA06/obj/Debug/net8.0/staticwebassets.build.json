@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "yWOVk1PKdZf6Vxmabtk75+Hlkyz7pkr2R9Jrz9fyzoA=",
+  "Source": "ICA06",
+  "BasePath": "_content/ICA06",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ICA06\\wwwroot",
+      "Source": "ICA06",
+      "ContentRoot": "C:\\Users\\efrank3\\Documents\\Web2550\\2550\\Thor\\CMPE2550\\HomePage\\icas\\ICA06\\ICA06\\wwwroot\\",
+      "BasePath": "_content/ICA06",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\efrank3\\Documents\\Web2550\\2550\\Thor\\CMPE2550\\HomePage\\icas\\ICA06\\ICA06\\wwwroot\\Code.js",
+      "SourceId": "ICA06",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\efrank3\\Documents\\Web2550\\2550\\Thor\\CMPE2550\\HomePage\\icas\\ICA06\\ICA06\\wwwroot\\",
+      "BasePath": "_content/ICA06",
+      "RelativePath": "Code.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Code.js"
+    },
+    {
+      "Identity": "C:\\Users\\efrank3\\Documents\\Web2550\\2550\\Thor\\CMPE2550\\HomePage\\icas\\ICA06\\ICA06\\wwwroot\\index.html",
+      "SourceId": "ICA06",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\efrank3\\Documents\\Web2550\\2550\\Thor\\CMPE2550\\HomePage\\icas\\ICA06\\ICA06\\wwwroot\\",
+      "BasePath": "_content/ICA06",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

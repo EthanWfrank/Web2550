@@ -1,0 +1,436 @@
+E:\CNT Term 3\2550\Thor\icas\ICA06\ICA06\bin\Debug\net8.0\appsettings.Development.json
+E:\CNT Term 3\2550\Thor\icas\ICA06\ICA06\bin\Debug\net8.0\appsettings.json
+E:\CNT Term 3\2550\Thor\icas\ICA06\ICA06\bin\Debug\net8.0\ICA06.staticwebassets.runtime.json
+E:\CNT Term 3\2550\Thor\icas\ICA06\ICA06\bin\Debug\net8.0\ICA06.exe
+E:\CNT Term 3\2550\Thor\icas\ICA06\ICA06\bin\Debug\net8.0\ICA06.deps.json
+E:\CNT Term 3\2550\Thor\icas\ICA06\ICA06\bin\Debug\net8.0\ICA06.runtimeconfig.json
+E:\CNT Term 3\2550\Thor\icas\ICA06\ICA06\bin\Debug\net8.0\ICA06.dll
+E:\CNT Term 3\2550\Thor\icas\ICA06\ICA06\bin\Debug\net8.0\ICA06.pdb
+E:\CNT Term 3\2550\Thor\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.GeneratedMSBuildEditorConfig.editorconfig
+E:\CNT Term 3\2550\Thor\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.AssemblyInfoInputs.cache
+E:\CNT Term 3\2550\Thor\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.AssemblyInfo.cs
+E:\CNT Term 3\2550\Thor\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.csproj.CoreCompileInputs.cache
+E:\CNT Term 3\2550\Thor\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.MvcApplicationPartsAssemblyInfo.cache
+E:\CNT Term 3\2550\Thor\icas\ICA06\ICA06\obj\Debug\net8.0\staticwebassets.build.json
+E:\CNT Term 3\2550\Thor\icas\ICA06\ICA06\obj\Debug\net8.0\staticwebassets.development.json
+E:\CNT Term 3\2550\Thor\icas\ICA06\ICA06\obj\Debug\net8.0\staticwebassets\msbuild.ICA06.Microsoft.AspNetCore.StaticWebAssets.props
+E:\CNT Term 3\2550\Thor\icas\ICA06\ICA06\obj\Debug\net8.0\staticwebassets\msbuild.build.ICA06.props
+E:\CNT Term 3\2550\Thor\icas\ICA06\ICA06\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ICA06.props
+E:\CNT Term 3\2550\Thor\icas\ICA06\ICA06\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ICA06.props
+E:\CNT Term 3\2550\Thor\icas\ICA06\ICA06\obj\Debug\net8.0\staticwebassets.pack.json
+E:\CNT Term 3\2550\Thor\icas\ICA06\ICA06\obj\Debug\net8.0\scopedcss\bundle\ICA06.styles.css
+E:\CNT Term 3\2550\Thor\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.dll
+E:\CNT Term 3\2550\Thor\icas\ICA06\ICA06\obj\Debug\net8.0\refint\ICA06.dll
+E:\CNT Term 3\2550\Thor\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.pdb
+E:\CNT Term 3\2550\Thor\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.genruntimeconfig.cache
+E:\CNT Term 3\2550\Thor\icas\ICA06\ICA06\obj\Debug\net8.0\ref\ICA06.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\appsettings.Development.json
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\appsettings.json
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ICA06.staticwebassets.runtime.json
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ICA06.exe
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ICA06.deps.json
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ICA06.runtimeconfig.json
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ICA06.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ICA06.pdb
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.GeneratedMSBuildEditorConfig.editorconfig
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.AssemblyInfoInputs.cache
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.AssemblyInfo.cs
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.csproj.CoreCompileInputs.cache
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.MvcApplicationPartsAssemblyInfo.cache
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\staticwebassets.build.json
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\staticwebassets.development.json
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\staticwebassets\msbuild.ICA06.Microsoft.AspNetCore.StaticWebAssets.props
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\staticwebassets\msbuild.build.ICA06.props
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ICA06.props
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ICA06.props
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\staticwebassets.pack.json
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\scopedcss\bundle\ICA06.styles.css
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\refint\ICA06.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.pdb
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.genruntimeconfig.cache
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ref\ICA06.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\appsettings.Development.json
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\appsettings.json
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ICA06.staticwebassets.runtime.json
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ICA06.exe
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ICA06.deps.json
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ICA06.runtimeconfig.json
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ICA06.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ICA06.pdb
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.GeneratedMSBuildEditorConfig.editorconfig
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.AssemblyInfoInputs.cache
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.AssemblyInfo.cs
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.csproj.CoreCompileInputs.cache
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.MvcApplicationPartsAssemblyInfo.cache
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\staticwebassets.build.json
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\staticwebassets.development.json
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\staticwebassets\msbuild.ICA06.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\staticwebassets\msbuild.build.ICA06.props
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ICA06.props
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ICA06.props
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\staticwebassets.pack.json
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\scopedcss\bundle\ICA06.styles.css
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\refint\ICA06.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.pdb
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.genruntimeconfig.cache
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ref\ICA06.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Azure.Core.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Azure.Identity.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.ClientModel.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Memory.Data.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Text.Json.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.csproj.AssemblyReference.cache
+D:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.csproj.Up2Date
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.csproj.AssemblyReference.cache
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Azure.Core.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Azure.Identity.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.ClientModel.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Memory.Data.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Text.Json.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.csproj.Up2Date
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Humanizer.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.CodeDom.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\CNT Term 3\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\appsettings.json
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ICA06.staticwebassets.runtime.json
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ICA06.exe
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ICA06.deps.json
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ICA06.runtimeconfig.json
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ICA06.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ICA06.pdb
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Humanizer.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.csproj.AssemblyReference.cache
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.AssemblyInfoInputs.cache
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.AssemblyInfo.cs
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.csproj.CoreCompileInputs.cache
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\staticwebassets\msbuild.ICA06.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\staticwebassets\msbuild.build.ICA06.props
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ICA06.props
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ICA06.props
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\scopedcss\bundle\ICA06.styles.css
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.csproj.Up2Date
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\refint\ICA06.dll
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.pdb
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ICA06.genruntimeconfig.cache
+C:\Users\efrank3\Documents\Web2550\2550\Thor\CMPE2550\HomePage\icas\ICA06\ICA06\obj\Debug\net8.0\ref\ICA06.dll

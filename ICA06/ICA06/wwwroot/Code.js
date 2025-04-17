@@ -6,6 +6,7 @@ $(() => {
     LoadWelcomeMessage();
     LoadLocations();
     connectToSQL();
+    GetclassData();
 
     $("#submit").click(() => {
         clientObj = {};
@@ -13,9 +14,36 @@ $(() => {
         clientObj.age = $("[name = 'age']").val();
 
         MakeAjaxCall("https://localhost:7067/NameAge", "POST", clientObj, "HTML", NameAgeSuccesss, errorHandler);
-    })
+    });
+
+    $("#addstudent").click(() => {
+        AddStudent();
+    });
+
+    $("#senddata").click(() => {
+        clientObj = {};
+        num1 = 5;
+
+        MakeAjaxCall("https://localhost:7067/sendData/" + num1, "GET", clientObj, "JSON", SendDatasuccess, errorHandler);
+    });
 })
 ////////////////////////////////////////////Connecting to sql displaying table///////////////////////////////////////////////
+function SendDatasuccess(data) {
+    console.log("send data - data " + data);
+
+    console.log(data[0]["num1"]);
+    console.log(data[1]["num3"]);
+
+    for (let i = 0; i < data.length; i++) {
+        console.log("This one -- " + data[i]["num1"]);
+    }
+
+    data.forEach((value, key) => {
+        console.log(value["num1"]);
+    })
+
+}
+
 function connectToSQL() {
     clientObj = {};
 
@@ -23,7 +51,7 @@ function connectToSQL() {
 }
 function SQLSuccess(data) {
     console.log("Success");
-    console.log(data);
+    console.log("look herer" + data);
 
     // Creating a table to display on main page
     table = "<table>";
@@ -180,15 +208,35 @@ function Cancel(id) {
     console.log("success");
     $("#tableDiv").empty();
     connectToSQL();
+
 }
 
 /////////////////////////////////Add Student//////////////////////////////////////////////////////////////////////////////////
-function CreatForm() {
-    MakeAjaxCall("https://localhost:7067/GetClasses", "GET", {}, "JSON", CreatFormSuccess, errorHandler);
+function GetclassData() {
+    MakeAjaxCall("https://localhost:7067/GetClasses", "GET", {}, "HTML", GetclassDataSuccess, errorHandler);
 }
-CreatFormSuccess(data){
-    console.log("inside create form");
+
+function GetclassDataSuccess(data){
+    console.log(data);
+    $("#classes").append(data);
 }
+
+function AddStudent() {
+
+    console.log($("#firstname").val());
+    clientObj = {};
+    clientObj.firstName = $("#firstname").val();
+    clientObj.lastName = $("#lastname").val();
+    clientObj.studentId = $("#studid").val();
+    clientObj.classes = $("#classes").val();
+    console.log($("#classes").val());
+    MakeAjaxCall("https://localhost:7067/AddStud/" , "POST", clientObj, "JSON", addStudentSucces, errorHandler);
+}
+
+function addStudentSucces(data) {
+
+}
+
 
 ///////////////////////////////////Practice/////////////////////////////////////////////////////////////////////////////////
 function NameAgeSuccesss(data) {
@@ -224,7 +272,7 @@ function LocationSuccess(data) {
 }
 
 function successHandler(data){
-
+    console.log(data);
 }
 function errorHandler(){
     console.log("Error");

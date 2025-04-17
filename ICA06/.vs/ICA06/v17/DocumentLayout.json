@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\efrank3\\Documents\\Web2550\\2550\\Thor\\CMPE2550\\HomePage\\icas\\ICA06\\",
+  "WorkspaceRootPath": "C:\\Users\\ethan\\OneDrive\\Desktop\\Git2550\\ICA06\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5F88B1E-3845-4BC5-8880-53A234A6FB33}|ICA06\\ICA06.csproj|c:\\users\\efrank3\\documents\\web2550\\2550\\thor\\cmpe2550\\homepage\\icas\\ica06\\ica06\\wwwroot\\code.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{F5F88B1E-3845-4BC5-8880-53A234A6FB33}|ICA06\\ICA06.csproj|c:\\users\\ethan\\onedrive\\desktop\\git2550\\ica06\\ica06\\wwwroot\\code.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{F5F88B1E-3845-4BC5-8880-53A234A6FB33}|ICA06\\ICA06.csproj|solutionrelative:ica06\\wwwroot\\code.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5F88B1E-3845-4BC5-8880-53A234A6FB33}|ICA06\\ICA06.csproj|c:\\users\\efrank3\\documents\\web2550\\2550\\thor\\cmpe2550\\homepage\\icas\\ica06\\ica06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5F88B1E-3845-4BC5-8880-53A234A6FB33}|ICA06\\ICA06.csproj|c:\\users\\ethan\\onedrive\\desktop\\git2550\\ica06\\ica06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5F88B1E-3845-4BC5-8880-53A234A6FB33}|ICA06\\ICA06.csproj|solutionrelative:ica06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5F88B1E-3845-4BC5-8880-53A234A6FB33}|ICA06\\ICA06.csproj|c:\\users\\efrank3\\documents\\web2550\\2550\\thor\\cmpe2550\\homepage\\icas\\ica06\\ica06\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F5F88B1E-3845-4BC5-8880-53A234A6FB33}|ICA06\\ICA06.csproj|solutionrelative:ica06\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,34 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\efrank3\\Documents\\Web2550\\2550\\Thor\\CMPE2550\\HomePage\\icas\\ICA06\\ICA06\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "ICA06\\wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\efrank3\\Documents\\Web2550\\2550\\Thor\\CMPE2550\\HomePage\\icas\\ICA06\\ICA06\\wwwroot\\index.html",
-              "RelativeToolTip": "ICA06\\wwwroot\\index.html",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-01T21:19:16.3Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\efrank3\\Documents\\Web2550\\2550\\Thor\\CMPE2550\\HomePage\\icas\\ICA06\\ICA06\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ethan\\OneDrive\\Desktop\\Git2550\\ICA06\\ICA06\\Program.cs",
               "RelativeDocumentMoniker": "ICA06\\Program.cs",
-              "ToolTip": "C:\\Users\\efrank3\\Documents\\Web2550\\2550\\Thor\\CMPE2550\\HomePage\\icas\\ICA06\\ICA06\\Program.cs",
+              "ToolTip": "C:\\Users\\ethan\\OneDrive\\Desktop\\Git2550\\ICA06\\ICA06\\Program.cs",
               "RelativeToolTip": "ICA06\\Program.cs",
-              "ViewState": "AgIAAJAAAAAAAAAAAAAgwL4AAAARAAAAAAAAAA==",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAswEwAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T18:19:30.777Z",
               "EditorCaption": ""
@@ -58,11 +37,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Code.js",
-              "DocumentMoniker": "C:\\Users\\efrank3\\Documents\\Web2550\\2550\\Thor\\CMPE2550\\HomePage\\icas\\ICA06\\ICA06\\wwwroot\\Code.js",
+              "DocumentMoniker": "C:\\Users\\ethan\\OneDrive\\Desktop\\Git2550\\ICA06\\ICA06\\wwwroot\\Code.js",
               "RelativeDocumentMoniker": "ICA06\\wwwroot\\Code.js",
-              "ToolTip": "C:\\Users\\efrank3\\Documents\\Web2550\\2550\\Thor\\CMPE2550\\HomePage\\icas\\ICA06\\ICA06\\wwwroot\\Code.js",
+              "ToolTip": "C:\\Users\\ethan\\OneDrive\\Desktop\\Git2550\\ICA06\\ICA06\\wwwroot\\Code.js",
               "RelativeToolTip": "ICA06\\wwwroot\\Code.js",
-              "ViewState": "AgIAAEEAAAAAAAAAAAA9wLsAAAABAAAAAAAAAA==",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-03-28T01:14:07.603Z",
               "EditorCaption": ""

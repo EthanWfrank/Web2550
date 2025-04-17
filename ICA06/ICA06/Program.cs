@@ -5,6 +5,16 @@ using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
 
 namespace ICA06
 {
+
+    // Validating player names --- gameactive = p1 != "" && p2 != ""
+    // Check length of string  --- p1.length
+    // status = bool ? true : false
+    // Math.clamp(number, lwoer, upper)
+
+
+
+
+
     public class Program
     {
         public static string[] Locations = { "l1", "L2", "L3" };
@@ -30,8 +40,6 @@ namespace ICA06
                                       "User Id = efrank3;" +
                                       "Password= aZx243mnb5342@;" +
                                       "Encrypt = false;";
-
-
 
             app.MapGet("/select", () =>
             {
@@ -69,9 +77,9 @@ namespace ICA06
                     studentData.Add(newstud);
                 }
 
-                return Results.Json(studentData);
+                return Results.Json(studentData); // RETURNS A JSON OBJECT OF STUDENTS
             });
-
+            ////////////////////////////////////////////////////////////////////////////SELECT DATA FOR TABLE/////////////////////////////////////////////////
             app.MapPost("/GetStudentData", (ClientD s) =>
             {
                 Console.WriteLine($"Inside Get Student Data {s.sid}");
@@ -103,9 +111,6 @@ namespace ICA06
                 // Itterates throigh the returned data
                 while (reader.Read())
                 {
-                   // Console.WriteLine($"{reader["student_id"]} {reader["last_name"]}");
-                    //Console.WriteLine(reader.FieldCount.ToString());
-
                     // Creates an object
                     // field.Count is the amount of columns 
                     //Student newstud = new Student((int)reader["student_id"], (string)reader["last_name"], (string)reader["first_name"], (int)reader["school_id"]);
@@ -126,7 +131,7 @@ namespace ICA06
 
             });
 
-            // Makes an AJAX call and prints welcome on Main Page
+            //////////////////////////////////////////////////////////////////////////WELCOME/////////////////////////////////////////////////////////////////
             app.MapGet("/Welcome", ()=> 
             {
                 return new
@@ -135,6 +140,7 @@ namespace ICA06
                 };
             });
 
+            ///////////////////////////////////////////////////////////////////////////CREATING A SELECT////////////////////////////////////////////////////////////
             app.MapGet("/location", () =>
             {
                 return new
@@ -143,7 +149,8 @@ namespace ICA06
                 };
             });
 
-            // When using post i must creat a record class to hold the client data
+            ///////////////////////////////////////////////////////////////////////////POST///////////////////////////////////////////////////////////////////
+            
             app.MapPost("/NameAge", (ClientData cl) =>
             {
                 // stores in global var 
@@ -154,7 +161,8 @@ namespace ICA06
                 int Time = rand.Next(1, 101);
                 return $"Your name is {cl.fname} and your age is {cl.age} time it took is: {Time}m";
             });
-
+            ///////////////////////////////////////////////////////////////////////////DELETING//////////////////////////////////////////////////////////////////
+            
             app.MapDelete("/DeleteStud/{id}", (int id) =>
             {
                 // Openning a new connection
@@ -169,7 +177,7 @@ namespace ICA06
 
                 SqlDataReader reader = command.ExecuteReader();
             });
-
+            ////////////////////////////////////////////////////////////////////////////UPDATING//////////////////////////////////////////////////////////////
             app.MapPut("/UpdateStud/{id}", (UpdateStudent us, int id) => 
             {
                 Console.WriteLine($"lname = {us.lname}, fname = {us.fname}, id = {us.sid} student id = {id}");
@@ -205,6 +213,112 @@ namespace ICA06
                 };
 
             });
+
+            ////////////////////////////////////////////////////////////////////////////SELECT CLASSES//////////////////////////////////////////////////////////
+            app.MapGet("/GetClasses", () =>
+            {
+                // Step one open a new connection
+                SqlConnection conn = new SqlConnection(connectionString);
+                conn.Open();
+
+                // Create the script
+                string script = "SELECT * FROM Classes";
+
+                // Executing the script
+                // giving the script and the connections made
+                SqlCommand command = new SqlCommand(script, conn);
+
+                SqlDataReader reader = command.ExecuteReader();
+
+                // Creating a list of objects
+                string classOptions = " ";
+                while (reader.Read())
+                {
+                    classOptions += $"<option value = '{reader["class_id"]}'> {reader["class_desc"]}</option>";
+                }
+
+                return classOptions; // Returning HTML
+            });
+
+            ////////////////////////////////////////////////////////////////////////////INSERTING//////////////////////////////////////////////////////////////
+            app.MapPost("/AddStud", (addStudent ast) =>
+            {
+                // Connect to data
+                SqlConnection conn = new SqlConnection(connectionString);
+                conn.Open();
+
+                // using a try catch to see if it is a number
+                try
+                {
+                    int i = int.Parse(ast.studentId);
+                }
+                catch(Exception e)
+                {
+                    return new { status = "Not a Number" };
+                }
+
+                //creating a script for the data base
+                // Creating Command
+                // Executing command
+                string script = $"INSERT INTO Students (last_name,first_name, school_id) VALUES ('{ast.lname}', '{ast.fname}', {ast.studentId});" +
+                                $"SELECT SCOPE_IDENTITY() as studid";
+                SqlCommand command = new SqlCommand(script, conn);
+                SqlDataReader reader = command.ExecuteReader();
+
+                // Getting the student id
+                // closes the connection
+                reader.Read();
+                string studID = reader["studid"].ToString();
+                reader.Close();
+
+                // inserting in the class to student 
+                // Remeber to close the reader
+                foreach (string str in ast.classes)
+                {
+                   string addClass_Stud = $"INSERT INTO Class_to_student (class_id, student_id) VALUES ({str}, {studID});";
+                   Console.WriteLine(addClass_Stud);
+                   SqlCommand command2 = new SqlCommand(addClass_Stud, conn);
+                   SqlDataReader reader2 = command2.ExecuteReader();
+                   reader2.Close();
+                }
+
+                return new { status = "added the student" };
+            });
+
+            app.MapGet("/sendData/{num1}", (int num1) =>
+            {
+            int newNum = num1 * 10;
+
+            List<object> objectList = new List<object>();
+
+            objectList.Add(new
+            {
+                num1 = newNum,
+                num2 = newNum + 5
+            });
+
+            objectList.Add(new
+            {
+                 num1 = newNum * 10,
+                 num2 = newNum + 50
+            });
+
+                /*                List<Data> numbers = new List<Data>();
+
+                                numbers.Add(new Data(newNum));
+
+                                foreach(Data d in numbers)
+                                {
+                                    Console.WriteLine(d.ToString());
+                                }*/
+
+                foreach (object obj in objectList)
+            {
+                Console.WriteLine(obj.ToString());
+            }
+
+                return objectList;
+            });
            
         app.Run();
         }
@@ -212,6 +326,9 @@ namespace ICA06
         record class ClientData(string fname, string age);
         record class Student(int studentID, string lname, string fname, int schoolID);
         record class UpdateStudent(string lname, string fname, string sid);
+        record class addStudent(string lname, string fname, string studentId, string[] classes);
+
+        record class Data(int num1);
     
         public void StudentTable()
         {

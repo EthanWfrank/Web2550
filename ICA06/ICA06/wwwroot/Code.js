@@ -24,7 +24,9 @@ $(() => {
         clientObj = {};
         num1 = 5;
 
-        MakeAjaxCall("https://localhost:7067/sendData/" + num1, "GET", clientObj, "JSON", SendDatasuccess, errorHandler);
+        str = "hello";
+
+        MakeAjaxCall("https://localhost:7067/sendData/" + num1 + "/" + str, "GET", clientObj, "JSON", SendDatasuccess, errorHandler);
     });
 })
 ////////////////////////////////////////////Connecting to sql displaying table///////////////////////////////////////////////

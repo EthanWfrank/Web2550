@@ -1,73 +1,19 @@
 {
   "Version": 1,
-  "Hash": "otk8jRFQwjcLqhd4FgG2WMnx/ALuW18rNovrmT2/OxE=",
-  "Source": "ICA06",
-  "BasePath": "_content/ICA06",
-  "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [
-    {
-      "Name": "ICA06\\wwwroot",
-      "Source": "ICA06",
-      "ContentRoot": "C:\\Users\\efrank3\\Documents\\GitHub\\Web2550\\ICA06\\ICA06\\wwwroot\\",
-      "BasePath": "_content/ICA06",
-      "Pattern": "**"
-    }
-  ],
-  "Assets": [
-    {
-      "Identity": "C:\\Users\\efrank3\\Documents\\GitHub\\Web2550\\ICA06\\ICA06\\wwwroot\\Code.js",
-      "SourceId": "ICA06",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\efrank3\\Documents\\GitHub\\Web2550\\ICA06\\ICA06\\wwwroot\\",
-      "BasePath": "_content/ICA06",
-      "RelativePath": "Code#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "kfikf78319",
-      "Integrity": "sDr+I7ufNW/cUau5Eq0jfZytfSEm2mucn7DSsVJ4qn4=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Code.js"
-    },
-    {
-      "Identity": "C:\\Users\\efrank3\\Documents\\GitHub\\Web2550\\ICA06\\ICA06\\wwwroot\\index.html",
-      "SourceId": "ICA06",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\efrank3\\Documents\\GitHub\\Web2550\\ICA06\\ICA06\\wwwroot\\",
-      "BasePath": "_content/ICA06",
-      "RelativePath": "index#[.{fingerprint}]?.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "et3c70ctl4",
-      "Integrity": "UgXT2Zk5UJRs79w4TDbRuUUs5SngamZq9aTMckaJlEs=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\index.html"
-    }
-  ],
   "Endpoints": [
     {
       "Route": "Code.js",
-      "AssetFile": "C:\\Users\\efrank3\\Documents\\GitHub\\Web2550\\ICA06\\ICA06\\wwwroot\\Code.js",
+      "AssetFile": "Code.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Length",
@@ -84,10 +30,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 17 Apr 2025 16:24:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
@@ -99,12 +41,16 @@
     },
     {
       "Route": "Code.kfikf78319.js",
-      "AssetFile": "C:\\Users\\efrank3\\Documents\\GitHub\\Web2550\\ICA06\\ICA06\\wwwroot\\Code.js",
+      "AssetFile": "Code.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -121,10 +67,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 17 Apr 2025 16:24:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -133,23 +75,27 @@
           "Value": "kfikf78319"
         },
         {
-          "Name": "label",
-          "Value": "Code.js"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-sDr+I7ufNW/cUau5Eq0jfZytfSEm2mucn7DSsVJ4qn4="
+        },
+        {
+          "Name": "label",
+          "Value": "Code.js"
         }
       ]
     },
     {
       "Route": "index.et3c70ctl4.html",
-      "AssetFile": "C:\\Users\\efrank3\\Documents\\GitHub\\Web2550\\ICA06\\ICA06\\wwwroot\\index.html",
+      "AssetFile": "index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -166,10 +112,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 17 Apr 2025 16:12:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -178,23 +120,27 @@
           "Value": "et3c70ctl4"
         },
         {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-UgXT2Zk5UJRs79w4TDbRuUUs5SngamZq9aTMckaJlEs="
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
         }
       ]
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\efrank3\\Documents\\GitHub\\Web2550\\ICA06\\ICA06\\wwwroot\\index.html",
+      "AssetFile": "index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Length",
@@ -211,10 +157,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 17 Apr 2025 16:12:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [

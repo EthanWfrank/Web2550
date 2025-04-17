@@ -1,12 +1,16 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\ethan\\OneDrive\\Desktop\\Git2550\\ICA06\\ICA06\\wwwroot\\Code.js",
+      "Id": "C:\\Users\\efrank3\\Documents\\GitHub\\Web2550\\ICA06\\ICA06\\wwwroot\\Code.js",
       "PackagePath": "staticwebassets\\Code.js"
     },
     {
-      "Id": "C:\\Users\\ethan\\OneDrive\\Desktop\\Git2550\\ICA06\\ICA06\\wwwroot\\index.html",
+      "Id": "C:\\Users\\efrank3\\Documents\\GitHub\\Web2550\\ICA06\\ICA06\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ICA06.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ICA06.Microsoft.AspNetCore.StaticWebAssets.props",

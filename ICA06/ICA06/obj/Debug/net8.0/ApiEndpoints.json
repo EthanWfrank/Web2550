@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "ICA06.Program\u002B\u003C\u003Ec__DisplayClass3_0",
+    "ContainingType": "ICA06.Program\u002B\u003C\u003Ec__DisplayClass4_0",
     "Method": "\u003CMain\u003Eb__8",
     "RelativePath": "AddStud",
     "HttpMethod": "POST",
@@ -24,7 +24,7 @@
     ]
   },
   {
-    "ContainingType": "ICA06.Program\u002B\u003C\u003Ec__DisplayClass3_0",
+    "ContainingType": "ICA06.Program\u002B\u003C\u003Ec__DisplayClass4_0",
     "Method": "\u003CMain\u003Eb__5",
     "RelativePath": "DeleteStud/{id}",
     "HttpMethod": "DELETE",
@@ -46,7 +46,7 @@
     ]
   },
   {
-    "ContainingType": "ICA06.Program\u002B\u003C\u003Ec__DisplayClass3_0",
+    "ContainingType": "ICA06.Program\u002B\u003C\u003Ec__DisplayClass4_0",
     "Method": "\u003CMain\u003Eb__7",
     "RelativePath": "GetClasses",
     "HttpMethod": "GET",
@@ -64,7 +64,7 @@
     ]
   },
   {
-    "ContainingType": "ICA06.Program\u002B\u003C\u003Ec__DisplayClass3_0",
+    "ContainingType": "ICA06.Program\u002B\u003C\u003Ec__DisplayClass4_0",
     "Method": "\u003CMain\u003Eb__1",
     "RelativePath": "GetStudentData",
     "HttpMethod": "POST",
@@ -89,7 +89,7 @@
   },
   {
     "ContainingType": "ICA06.Program\u002B\u003C\u003Ec",
-    "Method": "\u003CMain\u003Eb__3_3",
+    "Method": "\u003CMain\u003Eb__4_3",
     "RelativePath": "location",
     "HttpMethod": "GET",
     "IsController": false,
@@ -107,7 +107,7 @@
   },
   {
     "ContainingType": "ICA06.Program\u002B\u003C\u003Ec",
-    "Method": "\u003CMain\u003Eb__3_4",
+    "Method": "\u003CMain\u003Eb__4_4",
     "RelativePath": "NameAge",
     "HttpMethod": "POST",
     "IsController": false,
@@ -130,7 +130,7 @@
     ]
   },
   {
-    "ContainingType": "ICA06.Program\u002B\u003C\u003Ec__DisplayClass3_0",
+    "ContainingType": "ICA06.Program\u002B\u003C\u003Ec__DisplayClass4_0",
     "Method": "\u003CMain\u003Eb__0",
     "RelativePath": "select",
     "HttpMethod": "GET",
@@ -147,8 +147,8 @@
   },
   {
     "ContainingType": "ICA06.Program\u002B\u003C\u003Ec",
-    "Method": "\u003CMain\u003Eb__3_9",
-    "RelativePath": "sendData/{num1}",
+    "Method": "\u003CMain\u003Eb__4_9",
+    "RelativePath": "sendData/{num1}/{str}",
     "HttpMethod": "GET",
     "IsController": false,
     "Order": 0,
@@ -156,6 +156,11 @@
       {
         "Name": "num1",
         "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "str",
+        "Type": "System.String",
         "IsRequired": true
       }
     ],
@@ -170,7 +175,7 @@
     ]
   },
   {
-    "ContainingType": "ICA06.Program\u002B\u003C\u003Ec__DisplayClass3_0",
+    "ContainingType": "ICA06.Program\u002B\u003C\u003Ec__DisplayClass4_0",
     "Method": "\u003CMain\u003Eb__6",
     "RelativePath": "UpdateStud/{id}",
     "HttpMethod": "PUT",
@@ -200,7 +205,7 @@
   },
   {
     "ContainingType": "ICA06.Program\u002B\u003C\u003Ec",
-    "Method": "\u003CMain\u003Eb__3_2",
+    "Method": "\u003CMain\u003Eb__4_2",
     "RelativePath": "Welcome",
     "HttpMethod": "GET",
     "IsController": false,

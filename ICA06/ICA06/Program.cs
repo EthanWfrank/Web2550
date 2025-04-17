@@ -1,3 +1,5 @@
+using System.Text.RegularExpressions;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage;
@@ -17,6 +19,20 @@ namespace ICA06
 
     public class Program
     {
+
+
+        public static string CleanInput(string input)
+        {
+            // clean your inputs here
+            string clearnInput = Regex.Replace(input, "<.*?|&.*?;", string.Empty);
+
+            return clearnInput;
+
+        }
+
+
+
+
         public static string[] Locations = { "l1", "L2", "L3" };
         static string age;
         static string name;
@@ -55,8 +71,8 @@ namespace ICA06
 
                 // executing the scrip
                 // Need to creat an SqlCommand object
-                SqlCommand command  = new SqlCommand(script, conn);
-                
+                SqlCommand command = new SqlCommand(script, conn);
+
                 // This will run the Query
                 // Itterates through the result set
                 // Returns true or false
@@ -66,7 +82,7 @@ namespace ICA06
                 List<Student> studentData = new List<Student>();
 
                 // Itterates throigh the returned data
-                while (reader.Read()) 
+                while (reader.Read())
                 {
                     Console.WriteLine($"{reader["student_id"]} {reader["last_name"]}");
                     Console.WriteLine(reader.FieldCount.ToString());
@@ -117,12 +133,12 @@ namespace ICA06
                     Console.WriteLine(reader["start_date"]);
                     studentData.Add(
                             new { classid = reader["class_id"],
-                                  class_desc = reader["class_desc"],
-                                  days = reader["days"] != DBNull.Value ? reader["days"] : 0,
-                                  startDate = (DateTime)reader["start_date"],
-                                  instructor = reader["instructor_id"],
-                                  firstName = reader["first_name"],
-                                  lastName = reader["last_name"]
+                                class_desc = reader["class_desc"],
+                                days = reader["days"] != DBNull.Value ? reader["days"] : 0,
+                                startDate = (DateTime)reader["start_date"],
+                                instructor = reader["instructor_id"],
+                                firstName = reader["first_name"],
+                                lastName = reader["last_name"]
                             }
                         );
                 }
@@ -132,7 +148,7 @@ namespace ICA06
             });
 
             //////////////////////////////////////////////////////////////////////////WELCOME/////////////////////////////////////////////////////////////////
-            app.MapGet("/Welcome", ()=> 
+            app.MapGet("/Welcome", () =>
             {
                 return new
                 {
@@ -150,7 +166,7 @@ namespace ICA06
             });
 
             ///////////////////////////////////////////////////////////////////////////POST///////////////////////////////////////////////////////////////////
-            
+
             app.MapPost("/NameAge", (ClientData cl) =>
             {
                 // stores in global var 
@@ -162,7 +178,7 @@ namespace ICA06
                 return $"Your name is {cl.fname} and your age is {cl.age} time it took is: {Time}m";
             });
             ///////////////////////////////////////////////////////////////////////////DELETING//////////////////////////////////////////////////////////////////
-            
+
             app.MapDelete("/DeleteStud/{id}", (int id) =>
             {
                 // Openning a new connection
@@ -178,7 +194,7 @@ namespace ICA06
                 SqlDataReader reader = command.ExecuteReader();
             });
             ////////////////////////////////////////////////////////////////////////////UPDATING//////////////////////////////////////////////////////////////
-            app.MapPut("/UpdateStud/{id}", (UpdateStudent us, int id) => 
+            app.MapPut("/UpdateStud/{id}", (UpdateStudent us, int id) =>
             {
                 Console.WriteLine($"lname = {us.lname}, fname = {us.fname}, id = {us.sid} student id = {id}");
 
@@ -285,11 +301,12 @@ namespace ICA06
                 return new { status = "added the student" };
             });
 
-            app.MapGet("/sendData/{num1}", (int num1) =>
+            app.MapGet("/sendData/{num1}/{str}", (int num1, string str) =>
             {
             int newNum = num1 * 10;
 
             List<object> objectList = new List<object>();
+                Console.WriteLine(str);
 
             objectList.Add(new
             {
@@ -329,6 +346,7 @@ namespace ICA06
         record class addStudent(string lname, string fname, string studentId, string[] classes);
 
         record class Data(int num1);
+        record class SendData(string str);
     
         public void StudentTable()
         {

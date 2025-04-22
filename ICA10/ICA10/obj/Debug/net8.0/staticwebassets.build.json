@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2odEE4BHMJutraXFeNZwocOIliNY+p/HEmea55yEprw=",
+  "Hash": "QeurD9fr8heDy4e5T8/I2I2MbP0QfpcQ4iWwOHE70BA=",
   "Source": "ICA10",
   "BasePath": "_content/ICA10",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ICA10\\wwwroot",
       "Source": "ICA10",
-      "ContentRoot": "C:\\Users\\ethan\\OneDrive\\Desktop\\Git2550\\ICA10\\ICA10\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\efrank3\\Desktop\\web\\Web2550\\ICA10\\ICA10\\wwwroot\\",
       "BasePath": "_content/ICA10",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ethan\\OneDrive\\Desktop\\Git2550\\ICA10\\ICA10\\wwwroot\\Code.js",
+      "Identity": "C:\\Users\\efrank3\\Desktop\\web\\Web2550\\ICA10\\ICA10\\wwwroot\\Code.js",
       "SourceId": "ICA10",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ethan\\OneDrive\\Desktop\\Git2550\\ICA10\\ICA10\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\efrank3\\Desktop\\web\\Web2550\\ICA10\\ICA10\\wwwroot\\",
       "BasePath": "_content/ICA10",
       "RelativePath": "Code.js",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\Code.js"
     },
     {
-      "Identity": "C:\\Users\\ethan\\OneDrive\\Desktop\\Git2550\\ICA10\\ICA10\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\efrank3\\Desktop\\web\\Web2550\\ICA10\\ICA10\\wwwroot\\index.html",
       "SourceId": "ICA10",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ethan\\OneDrive\\Desktop\\Git2550\\ICA10\\ICA10\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\efrank3\\Desktop\\web\\Web2550\\ICA10\\ICA10\\wwwroot\\",
       "BasePath": "_content/ICA10",
       "RelativePath": "index.html",
       "AssetKind": "All",

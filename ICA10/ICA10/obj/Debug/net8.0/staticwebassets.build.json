@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "2odEE4BHMJutraXFeNZwocOIliNY+p/HEmea55yEprw=",
+  "Source": "ICA10",
+  "BasePath": "_content/ICA10",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ICA10\\wwwroot",
+      "Source": "ICA10",
+      "ContentRoot": "C:\\Users\\ethan\\OneDrive\\Desktop\\Git2550\\ICA10\\ICA10\\wwwroot\\",
+      "BasePath": "_content/ICA10",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ethan\\OneDrive\\Desktop\\Git2550\\ICA10\\ICA10\\wwwroot\\Code.js",
+      "SourceId": "ICA10",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ethan\\OneDrive\\Desktop\\Git2550\\ICA10\\ICA10\\wwwroot\\",
+      "BasePath": "_content/ICA10",
+      "RelativePath": "Code.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Code.js"
+    },
+    {
+      "Identity": "C:\\Users\\ethan\\OneDrive\\Desktop\\Git2550\\ICA10\\ICA10\\wwwroot\\index.html",
+      "SourceId": "ICA10",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ethan\\OneDrive\\Desktop\\Git2550\\ICA10\\ICA10\\wwwroot\\",
+      "BasePath": "_content/ICA10",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

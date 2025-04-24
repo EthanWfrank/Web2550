@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ethan\\OneDrive\\Desktop\\Git2550\\Exam4Practice\\Exam4Practice\\wwwroot\\Code.js",
+      "PackagePath": "staticwebassets\\Code.js"
+    },
+    {
+      "Id": "C:\\Users\\ethan\\OneDrive\\Desktop\\Git2550\\Exam4Practice\\Exam4Practice\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Exam4Practice.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Exam4Practice.props",
+      "PackagePath": "build\\Exam4Practice.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Exam4Practice.props",
+      "PackagePath": "buildMultiTargeting\\Exam4Practice.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Exam4Practice.props",
+      "PackagePath": "buildTransitive\\Exam4Practice.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

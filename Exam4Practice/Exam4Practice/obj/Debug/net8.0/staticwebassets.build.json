@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "jAMjDt4D8nr3C1iNCmFfnrlvgq7Zxk9TIOWA4Daqxsw=",
+  "Source": "Exam4Practice",
+  "BasePath": "_content/Exam4Practice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Exam4Practice\\wwwroot",
+      "Source": "Exam4Practice",
+      "ContentRoot": "C:\\Users\\ethan\\OneDrive\\Desktop\\Git2550\\Exam4Practice\\Exam4Practice\\wwwroot\\",
+      "BasePath": "_content/Exam4Practice",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ethan\\OneDrive\\Desktop\\Git2550\\Exam4Practice\\Exam4Practice\\wwwroot\\Code.js",
+      "SourceId": "Exam4Practice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ethan\\OneDrive\\Desktop\\Git2550\\Exam4Practice\\Exam4Practice\\wwwroot\\",
+      "BasePath": "_content/Exam4Practice",
+      "RelativePath": "Code.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Code.js"
+    },
+    {
+      "Identity": "C:\\Users\\ethan\\OneDrive\\Desktop\\Git2550\\Exam4Practice\\Exam4Practice\\wwwroot\\index.html",
+      "SourceId": "Exam4Practice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ethan\\OneDrive\\Desktop\\Git2550\\Exam4Practice\\Exam4Practice\\wwwroot\\",
+      "BasePath": "_content/Exam4Practice",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
